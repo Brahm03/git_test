@@ -7,7 +7,8 @@ import 'package:flutter/material.dart';
 // * git commit -m "commentariy qoyasiz"
 // * git hub dagi oxirgi 3 qatorlik codeni tashlisiz oxirida
 
-// * branch -> git branch dev_muhammad
+// * branch ochish -> git branch dev_muhammad
+// * otish boshqa branchga -> git switch dev_muhammad
 
 void main() {
   runApp(const MainApp());
