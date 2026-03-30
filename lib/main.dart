@@ -1,9 +1,14 @@
 import 'package:flutter/material.dart';
 
 
+// * Birinchi marta projectni github ga ulash uchun
 // * git init -> git ni project tanitib beradi
 // * git add . -> barcha papka file
-// * git commit -m -> 
+// * git commit -m "commentariy qoyasiz"
+// * git hub dagi oxirgi 3 qatorlik codeni tashlisiz oxirida
+
+// * branch -> git branch dev_muhammad
+
 void main() {
   runApp(const MainApp());
 }
