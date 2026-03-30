@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 
 // * git init -> git ni project tanitib beradi
 // * git add . -> barcha papka file
+// * git commit -m -> 
 void main() {
   runApp(const MainApp());
 }
@@ -21,3 +22,5 @@ class MainApp extends StatelessWidget {
     );
   }
 }
+
+
